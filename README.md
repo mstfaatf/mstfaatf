@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:m.attifff@gmail.com"><img src="https://img.shields.io/badge/Email-m.attifff%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20SWE%20internships-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to-Winter/Summer%202027%20SWE%20internships-2ea44f?style=flat" />
   <img src="https://komarev.com/ghpvc/?username=mstfaatf&style=flat&color=blue&label=Profile+views" />
 </p>
 
